@@ -23,6 +23,9 @@ This Flutter app allows users to scan NFC cards and simulate card interactions i
 ### History Screen
 ![History Screen](assets/screenshots/WhatsApp%20Image%202025-02-09%20at%209.17.22%20PM%20(2).jpeg)
 
+### Firestore Screen
+![History Screen](assets/screenshots/Screenshot%202025-02-09%20212957.png)
+
 
 ## Directory Structure
 ```
